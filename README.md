@@ -1,4 +1,3 @@
-
 ![gambar 1](screenshot/soal.png) <p>
 ### Program ini adalah program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
