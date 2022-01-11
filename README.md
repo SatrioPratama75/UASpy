@@ -1,4 +1,4 @@
-![gambar 1](screenshot/soal.png) <p>
+![Soal](https://user-images.githubusercontent.com/92651803/148987427-b6efb33a-8f4d-4548-b4a5-25164ab42c3f.png) <p>
 ### Program ini adalah program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 
